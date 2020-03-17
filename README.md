@@ -51,6 +51,5 @@ self.pucsAddPlayer = [[PUCsAdView alloc] initWithFrame:self.view.frame];
   
   ```
   [self.pucsAddPlayer stopAds];
-  
   ````
   
